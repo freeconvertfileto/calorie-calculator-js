@@ -2,7 +2,7 @@
 
 Estimate daily calorie needs using the Mifflin-St Jeor equation for BMR and TDEE with activity level multipliers, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/calculators/calorie-calculator
+**Live Demo:** https://file-converter-free.com/en/calculators/calorie-calculator-online
 
 ## How It Works
 
